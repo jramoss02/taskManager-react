@@ -42,7 +42,7 @@ const App = () => {
     setTasks(newTasks);
   };
 
-  const handleTaskAddiion = (taskTitle) => {
+  const handleTaskAddition = (taskTitle) => {
     const newTasks = [...tasks,
       {
         title: taskTitle,
@@ -58,18 +58,21 @@ const App = () => {
     <Router>
       <div className="container">
         <Header/>
-        <Route path={"/"} exact render={() => (
-          <>
-            <AddTask handleTaskAddition={handleTaskAddiion}/>
-            <Tasks 
-              tasks={tasks} 
-              handleTaskClick={handleTaskClick} 
-              handleTaskDeletion={handleTaskDeletion}
-            /> 
-          </>
-        )}
-      />
-      <Route path="/:taskTitle" exact render={TaskDetails}/>
+        <Route 
+          path={"/"} 
+          exact 
+          render={() => (
+            <>
+              <AddTask handleTaskAddition={handleTaskAddition}/>
+              <Tasks 
+                tasks={tasks} 
+                handleTaskClick={handleTaskClick} 
+                handleTaskDeletion={handleTaskDeletion}
+              /> 
+            </>
+          )}
+        />
+        <Route path="/:taskTitle" exact component={TaskDetails}/>
       </div> 
     </Router>
   );
