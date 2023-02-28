@@ -13,7 +13,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você tem uma máquina `<Windows / Linux / Mac>`
 
 
-## ☕ Utilizando o <Task Manager>
+## ☕ Utilizando o Task Manager
 
 Para usar <Task manager>, siga estas etapas:
 
