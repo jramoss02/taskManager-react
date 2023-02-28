@@ -1,44 +1,28 @@
 # Task Manager (REACT)
 
-<!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
+![task-manager](https://user-images.githubusercontent.com/77749469/221866241-f84c75c0-f4f2-48fc-ad30-b798344199b8.gif)
 
-<img src="exemplo-image.png" alt="exemplo imagem">
-
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+> Demonstração da utilização e funcionamento das funções basicas do projeto, como inserir e remover elementos, fazer marcações e visualizar informações.
 
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-* Versão mais recente instalada da linguagem: `<Java>`
-* Bibliotecas necessárias: `<ReactJS>`
+* Versão mais recente instalada das linguagens e ferramentas: `<Java, Node>`
+* Bibliotecas necessárias: `<ReactJS, react-icons>`
 * Você tem uma máquina `<Windows / Linux / Mac>`
 
-## 🚀 Instalação
-
-Para instalar o <Task manager>, siga estas etapas:
-
-Linux e macOS:
-```
-<comando_de_instalação>
-```
-
-Windows:
-```
-<comando_de_instalação>
-```
 
 ## ☕ Usando <nome_do_projeto>
 
 Para usar <Task manager>, siga estas etapas:
 
 ```
-<Com o projeto aberto e rodando, basta digitar a tarefa desejada no campo de texto e clicar no botão para inserir a tarefa>
-<Após a inserção da rarefa, podemos clicar nela para visualizar os detalhes da mesma>
-<>
+<Com o projeto ja aberto, execute o comando 'npm run start' para inicializar o servidor local>
+<Agora com o projeto rodando, basta digitar a tarefa desejada no campo de texto e clicar no botão para inserir a tarefa>
+<Após a inserção da tarefa, podemos clicar nela para visualizar para marcar como concluida (barra verde)>
+<Podemos clicar no icone "X" para remover, ou no icone de informações para exibir mais detalhes da tarefa>
 ```
-
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
 
 ## 🤝 Colaboradores
 
