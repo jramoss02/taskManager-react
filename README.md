@@ -12,6 +12,12 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Bibliotecas necessárias: `<ReactJS, react-icons>`
 * Você tem uma máquina `<Windows / Linux / Mac>`
 
+## 🛠️ Construído com
+
+
+* [Visual Studio Code](https://code.visualstudio.com/) - IDE utilizada.
+* [npm / Node](https://nodejs.org) - Gerente de Dependência.
+* [React](https://pt-br.reactjs.org/) - Principal biblioteca.
 
 ## ☕ Utilizando o Task Manager
 
