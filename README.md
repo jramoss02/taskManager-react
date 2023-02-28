@@ -13,7 +13,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você tem uma máquina `<Windows / Linux / Mac>`
 
 
-## ☕ Usando <nome_do_projeto>
+## ☕ Utilizando o <Task Manager>
 
 Para usar <Task manager>, siga estas etapas:
 
